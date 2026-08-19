@@ -1,2 +1,2 @@
 # cpp-numerics
-I use this project to deepen my understanding of C++ specific language features.
+This is a simple numerics library I am working on to deepen my understanding of C++ specific language features as well as numerics.
